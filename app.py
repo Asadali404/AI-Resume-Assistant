@@ -232,7 +232,7 @@ st.write(
 
 with st.sidebar:
     st.header("Settings")
-    st.caption("Model: Gemini 2.5 Flash")
+    st.caption("Model: Gemini 3.6 Flash")
     st.info(
         "ATS scores are estimates. Different applicant-tracking systems use "
         "different parsing and ranking rules."
